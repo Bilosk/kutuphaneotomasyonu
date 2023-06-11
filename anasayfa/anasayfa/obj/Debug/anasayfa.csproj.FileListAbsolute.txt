@@ -1,0 +1,38 @@
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\bin\Debug\anasayfa.exe.config
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\bin\Debug\anasayfa.exe
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\bin\Debug\anasayfa.pdb
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.csprojAssemblyReference.cache
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.Form1.resources
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.Form2.resources
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.Properties.Resources.resources
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.csproj.GenerateResource.cache
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.csproj.CoreCompileInputs.cache
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.exe
+C:\Users\BİLAL\Desktop\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.pdb
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\bin\Debug\anasayfa.exe.config
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\bin\Debug\anasayfa.exe
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\bin\Debug\anasayfa.pdb
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.csprojAssemblyReference.cache
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.Form1.resources
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.Form2.resources
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.Properties.Resources.resources
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.csproj.GenerateResource.cache
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.csproj.CoreCompileInputs.cache
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.exe
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.pdb
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\bin\Debug\kutuphane.mdf
+C:\Users\BİLAL\Desktop\KÜTÜPHANE OTOMASYONU\ödev\anasayfa\anasayfa\bin\Debug\kutuphane_log.ldf
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\bin\Debug\kutuphane.mdf
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\bin\Debug\kutuphane_log.ldf
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\bin\Debug\anasayfa.exe.config
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\bin\Debug\anasayfa.exe
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\bin\Debug\anasayfa.pdb
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.csproj.AssemblyReference.cache
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.Form1.resources
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.Form2.resources
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.Properties.Resources.resources
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.csproj.GenerateResource.cache
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.csproj.CoreCompileInputs.cache
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.exe
+C:\Users\bilos\Desktop\ödev\ödev\anasayfa\anasayfa\obj\Debug\anasayfa.pdb
